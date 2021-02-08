@@ -1,13 +1,10 @@
 from flask import Flask, render_template, request, jsonify
-from flask_cors import CORS, cross_origin
 import json
 import requests
 import pandas as pd
 import random
 
-app = Flask(_name_)
-cors = CORS(app)
-app.config['CORS_HEADERS'] = 'Content-Type'
+app = Flask(__name__)
 
 @app.route('/', methods=['GET','POST'])
 def facts():
