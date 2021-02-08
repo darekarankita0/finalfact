@@ -1,0 +1,30 @@
+Facts
+"Printed circuit boards are almost always green because they are made from a glass-epoxy, which is naturally green."
+Manufacturing floors need to be above 30 percent (rH) humidity or the solder paste dries out causing process issues.
+"The invention of the PCB is generally accredited to Paul Eisler, an Austrian inventor."
+The signals in electronic circuits may be classified as either digital or analog. A digital signal is like an ordinary electric switch-it is either on or off. An analog signal can have any value within a certain range.
+"Analog signals are widely used to represent sounds and pictures because light levels and the frequencies of sound waves can have any value within a given range. Analog signals can be converted into digital signals, and digital signals into analog. For example, compact disc players convert digital sound signals on discs to analog signals for playback through loudspeakers."
+The signals in electronic circuits may be classified as either digital or analog. A digital signal is like an ordinary electric switch-it is either on or off. An analog signal can have any value within a certain range.
+The fast and reliable control of both digital and analog signals by electronic equipment is made possible by the unique properties of such semi-conductor materials as silicon and germanium.
+"Electronics depends on certain highly specialised electron devices. A television set, computer, or other piece of complex electronic equipment may contain anywhere from hundreds to millions of these devices. The best-known and most important electronic device is the transistor."
+"Electronic devices are commonly used in a large number of applications that formerly relied on mechanical or electric systems for their operation. Examples are electronic controls in automatic cameras, electronic ignition systems in cars, and electronic control in domestic equipment, such as washing machines."
+Special types of electron tubes are used to produce X-rays. X-rays can pass through human tissue and other substances and leave an image on a photographic plate or on a fluorescent screen. X-rays can thus show what substances look like inside. X-rays are used in diagnosis and therapy.
+"Electronics developed chiefly from certain electrical experiments in the 1800s. These experiments involved using a gas-discharge tube, that is, a rube from which some of the air had been removed, leaving a thin mixture of gases. The tube had a metal electrode (electrical pole or terminal) at each end."
+"In 1904, a British scientist named John Ambrose Fleming built the first vacuum tube that could be used commercially. It was a two-electrode, or diode tube that could detect radio signals. In time, diode tubes also became widely used to rectify alternating current."
+"From the 1920s to the 1950s, knowledge about vacuum tubes made possible such inventions as television, films with sound, radar, and electronic computers. These inventions, in turn, led to the development of new electronic devices."
+"In 1923, a Russian-born American scientist named Vladimir K. Zworykin combined a photoelectric cell with an electron gun and so made the first successful TV camera tube."
+The vacuum tube era reached its peak with the completion of the first general-purpose electronic computer in 1946.
+"Transistor, the invention that changed the future of electronic circuits. It is a semiconductor device that can be used to either switch electrical power or amplify electronic signals."
+"Battery is a device that converts chemical energy in to electrical energy and provides power to devices like mobile phones, laptops, flashlights, etc. In electronics, we often use batteries to power our circuits, either to make the circuit portable or just to test the functionality of the circuit."
+Passive Components cannot control the flow of current through them i.e. they cannot introduce energy in to the circuit but can increase or decrease voltage and current.
+"The basic of all electronic components are the Resistors. It is a passive electronic components that introduces electrical resistance in to the circuit. Using resistors, we can reduce the current, divide voltages, setup biasing of transistors"
+"The second important passive components is a capacitor, a device that stores energy in the form of electric field. Most capacitors consists of two conducting plates that are separated by a dielectric material."
+"In electronics circuits, a capacitor is mainly used to block DC Current and allow AC Current. The other applications of capacitors are filters, timing circuits, power supplies and energy storing elements."
+"If capacitors store energy in the form of electric field, then inductors are devices that store energy in the form of Magnetic Field. Inductor is nothing but a wire that is wound in the form of a coil."
+"The most reliable Test Equipment for observing continuously varying signals is an Oscilloscope. With the help of an Oscilloscope, we can observe the changes in an electrical signal like voltage, over time."
+"Oscilloscopes are used in a wide range of field like Medical, Electronic, Automobile, Industrial and Telecommunication Applications."
+"A multimeter is a combination of Voltmeter, Ammeter and Ohmmeter. They provide an easy way to measure different parameters of an electronic circuit like current, voltage etc."
+"Originally, Oscilloscopes are made up of Cathode Ray Tube (CRT) displays but nowadays, almost all Oscilloscopes are Digital Oscilloscopes with advanced features like storage and memory."
+Multimeters can measure values in both AC and DC. Earlies Multimeters are Analog and consists of a pointing needle. Modern Multimeters are Digital and are often called as Digital Multimeters or DMMs.
+DMMs are available as handheld devices as well as bench devices. A Multimeter can be very handy in finding basic faults in a circuit.
+"A Signal Generator, as the name suggests, generates a variety of signals for testing and troubleshooting electronic circuits. The most common types of signals are Triangular Wave, Sine Wave, Square Wave and Sawtooth Wave"
