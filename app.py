@@ -21,10 +21,10 @@ def facts():
     data = json.dumps(data)
     return jsonify(data)
 
-if _name=='main_':
+if __name__=='__main__':
     #server = Server(app.wsgi_app)
     #server.serve()
     #server.watch('/Views/*')
-    app.run(debug=True)
+    app.run(debug=False)
     #app.config['DEBUG'] = True
     #app.config['TEMPLATES_AUTO_RELOAD'] = True
